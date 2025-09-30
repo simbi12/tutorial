@@ -12,3 +12,5 @@ print('My Code' , 'My Motivation' ,sep=',')
 amount_due=float(input('Enter the amount due: '))
 monthly_payment=amount_due//12
 print('The monthly_payment is $', format(monthly_payment, '.2f'),sep='')
+
+print("Hello Python*) 
