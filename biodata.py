@@ -1,0 +1,8 @@
+name=input('enter your name: ')
+address=input('enter your address: ')
+phone_number=input('enter your phone number: ')
+school=input('enter the name of school: ')
+print('Name: ',name)
+print('Address: ',address)
+print('Phone_number',phone_number)
+print('School: ',school)
